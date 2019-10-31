@@ -2,17 +2,16 @@
 
 html{
     height:100%;
+    padding:-10px;
 }
-
-
 body{
-    text-align:center;
     margin:0px;
     font-family: 'Special Elite', cursive;
     height:100%;
 }
 
 #Horizontal{
+  text-align:center;
   background-image:url(background2.jpg);
   background-size:300%;
   background-repeat:repeat;
@@ -24,6 +23,7 @@ body{
     border:5px solid black;
 }
 #Vertical{
+  text-align:center;
   background-image:url(background.png);
   background-size:300%;
   background-repeat:repeat;

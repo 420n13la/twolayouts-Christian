@@ -1,0 +1,103 @@
+*{box-sizing:border-box;}
+html{
+    background-color:white;
+    height:100%;
+    padding:-10px;
+}
+body{
+    background-color:#53000A;
+    color:white;
+    height:100%;
+    margin:0px;
+
+}
+nav ul{
+    list-style-type:none ;
+}
+nav li{
+    margin-bottom:15px;
+}
+#logo{
+    padding:5px;
+    padding-bottom:15px;
+    border-bottom:2px solid white;
+    text-align:center;
+}
+#wrapper{
+    width:700px;
+}
+nav{
+    border-radius:30px 30px 30px 30px;
+    float:left;
+    height:100%;
+    width:250px;
+    background-image:url(background.png);
+    padding:2px;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#border{
+    margin:auto;
+    height:154px;
+    width:154px;
+    border:2px solid white;
+}
+img{
+    min-width:10px;
+    min-height:10px;
+    max-height:150px;
+    max-width:150px;
+    
+}
+.chris1{
+    margin-right:10px;
+    margin-left:25px;
+    float:left;
+}
+.chris{
+    margin-left:10px;
+    margin-right:25px;
+    float:right;
+}
+a{
+    padding-left:2%;
+    color:white;
+    text-decoration:none;
+}
+.text p{
+    color:black;
+    margin-left:20px;
+}
+.text h1{
+    margin-top:0px;
+text-align:center;
+border-radius:10px;
+width:300px;
+border:2px solid #F80442;
+background-color:#F80442;
+margin-left:10px;
+}
+main{
+    padding-top:15px;
+    margin-left:280px;
+    background-color:white;
+    height:99%;
+    width:1100px;
+}
+footer{
+    color: red;
+    margin-top:7px;
+    background-color:#53000A;
+    width:100%;
+    padding-left:250px;
+   
+}
+
+a:hover{
+    border-bottom:2px solid white;
+}
+
+#mail{
+   float:left;
+    height:20px;
+}
